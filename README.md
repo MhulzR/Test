@@ -14,3 +14,5 @@ Push By Jenkins !
 Echo the Hello world after Commit
 
 #Fifth : Test with shell modifier with cat
+
+#Sixth : Build is now OK - Test again in auto
