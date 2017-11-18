@@ -12,3 +12,5 @@ Push By Jenkins !
 
 #Forth iteration 
 Echo the Hello world after Commit
+
+#Fifth : Test with shell modifier with cat
